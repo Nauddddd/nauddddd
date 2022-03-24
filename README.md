@@ -56,7 +56,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://nauddddd.com" target="blank">
-    <img width="190" height="190" src="images/dd.png" alt="nauddddd-blog" />
+    <img width="90" height="90" src="images/dd.png" alt="nauddddd-blog" />
   </a>
   <a href="https://facebook.com/nauddddd" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nauddddd-facebook" />
