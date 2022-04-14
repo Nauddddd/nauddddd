@@ -58,19 +58,19 @@
   <a href="https://nauddddd.com" target="blank">
     <img width="100" height="100" src="images/dd.png" alt="nauddddd-blog" />
   </a>
-  <a href="https://facebook.com/nauddddd" target="blank">
+  <a href="https://facebook.com/O8o.o8O" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nauddddd-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/naudddddOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UCO8jLxSfcii-iU0ung4-EMw" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nauddddd-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/nauddddd" target="blank">
+  <a href="https://www.linkedin.com/in/tr%E1%BB%8Bnh-quang-du%E1%BA%ABn-6a5086221/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nauddddd-linkedin" />
   </a>
-  <a href="https://instagram.com/nauddddd" target="blank">
+  <a href="https://www.instagram.com/duantarzan/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nauddddd-instagram" />
   </a>
-  <a href="mailto:nauddddd.official@gmail.com" target="top">
+  <a href="mailto:duantarzan@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nauddddd-email" />
   </a>
 </div>
